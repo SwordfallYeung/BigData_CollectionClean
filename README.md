@@ -1,0 +1,2 @@
+# BigData_Clean
+大数据清洗流程，小于5TB的情况下可以使用python的pandas，大于5TB的情况下使用hadoop、hive、spark
