@@ -8,7 +8,7 @@
 
 ### 关系型数据库的数据采集
 - 利用Sqoop把关系型数据库中的数据导入到hadoop的HDFS、Hive、HBase；Sqoop也能实现将数据从HDFS导出到RDBMS数据库；<br/>
-   参考资料：https://blog.csdn.net/u014695188/article/details/70461089<br/> <br/>
+   参考资料：https://blog.csdn.net/u014695188/article/details/70461089<br/>
    缺点：不是实时的，目标是大吞吐量，并不太关心低延时问题
 - 利用Flume将MySQL表数据准实时抽取到HDFS；<br/>
   参考资料：https://cloud.tencent.com/developer/article/1012048<br/>
