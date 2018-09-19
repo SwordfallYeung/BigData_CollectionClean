@@ -12,3 +12,4 @@
    缺点：不是实时的，目标是大吞吐量，并不太关心低延时问题
 - 利用Flume将MySQL表数据准实时抽取到HDFS；<br/>
   参考资料：https://cloud.tencent.com/developer/article/1012048<br/>
+  优点：准实时
