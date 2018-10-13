@@ -15,3 +15,5 @@ http://www.aboutyun.com/thread-20808-1-1.html
 
 大数据采集、清洗、处理：使用MapReduce进行离线数据分析完整案例<br/>
 http://blog.51cto.com/xpleaf/2095836
+
+常用的ETL工具：如DataStage、Kettle、powercenter等
